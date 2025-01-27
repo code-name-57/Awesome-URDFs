@@ -1,19 +1,19 @@
 {
     // other settings
     "urdf-visualizer.packages": {
-        "a1_description": "${workspaceFolder}/robots/a1_description",
-        "aliengo_description": "${workspaceFolder}/robots/aliengo_description",
-        "aliengoZ1_description": "${workspaceFolder}/robots/aliengpZ1_description",
-        "b1_description": "${workspaceFolder}/robots/b1_description",
-        "b2_description": "${workspaceFolder}/robots/b2_description",
-        "b2w_description": "${workspaceFolder}/robots/b2w_description",
-        "go1_description": "${workspaceFolder}/robots/go1_description",
-        "go2_description": "${workspaceFolder}/robots/go2_description",
-        "go2w_description": "${workspaceFolder}/robots/go2w_description",
-        "h1_2_description": "${workspaceFolder}/robots/h1_2_description",
-        "h1_description": "${workspaceFolder}/robots/h1_description",
-        "laikago_description": "${workspaceFolder}/robots/laikago_description",
-        "z1_description": "${workspaceFolder}/robots/z1_description",
+        "a1_description": "${workspaceFolder}/unitree/robots/a1_description",
+        "aliengo_description": "${workspaceFolder}/unitree/robots/aliengo_description",
+        "aliengoZ1_description": "${workspaceFolder}/unitree/robots/aliengpZ1_description",
+        "b1_description": "${workspaceFolder}/unitree/robots/b1_description",
+        "b2_description": "${workspaceFolder}/unitree/robots/b2_description",
+        "b2w_description": "${workspaceFolder}/unitree/robots/b2w_description",
+        "go1_description": "${workspaceFolder}/unitree/robots/go1_description",
+        "go2_description": "${workspaceFolder}/unitree/robots/go2_description",
+        "go2w_description": "${workspaceFolder}/unitree/robots/go2w_description",
+        "h1_2_description": "${workspaceFolder}/unitree/robots/h1_2_description",
+        "h1_description": "${workspaceFolder}/unitree/robots/h1_description",
+        "laikago_description": "${workspaceFolder}/unitree/robots/laikago_description",
+        "z1_description": "${workspaceFolder}/unitree/robots/z1_description",
     },
     // other settings
   }
