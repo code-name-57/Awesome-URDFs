@@ -1,6 +1,7 @@
 {
-    // other settings
+    // URDF Visualizer package paths
     "urdf-visualizer.packages": {
+        // Unitree Robots
         "a1_description": "${workspaceFolder}/unitree/robots/a1_description",
         "aliengo_description": "${workspaceFolder}/unitree/robots/aliengo_description",
         "aliengoZ1_description": "${workspaceFolder}/unitree/robots/aliengpZ1_description",
@@ -14,6 +15,30 @@
         "h1_description": "${workspaceFolder}/unitree/robots/h1_description",
         "laikago_description": "${workspaceFolder}/unitree/robots/laikago_description",
         "z1_description": "${workspaceFolder}/unitree/robots/z1_description",
+        // Wychar Lab Robots
+        "assem12ros_29": "${workspaceFolder}/wychar_labs/assem12ros_29",
     },
+
+    "urdf-visualizer.backgroundColor": "#37474F",
+
+    // STL Viewer settings
+    "stlViewer.viewOffset": 0.5,
+    "stlViewer.showAxes": true,
+    "stlViewer.showBoundingBox": true,
+    "stlViewer.showGrid": true,
+    "stlViewer.showInfo": true,
+    "stlViewer.showViewButtons": true,
+
+
     // other settings
+    "cmake.ignoreCMakeListsMissing": true,
+
+    "workbench.editorAssociations": {
+        "*.STL": "stlViewer.previewEditor",
+        "*.dae": "3dviewer.viewer",
+    },
+    
+
+
+   
   }

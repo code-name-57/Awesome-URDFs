@@ -1,6 +1,8 @@
 {
     "recommendations": [
       "morningfrog.urdf-visualizer",
-      "smilerobotics.urdf"
+      "smilerobotics.urdf",
+      "mtsmfm.vscode-stl-viewer",
+      "slevesque.vscode-3dviewer",
     ]
   }
